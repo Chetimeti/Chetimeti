@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chetimeti
+- 👀 I’m interested in creating circuits
+- 🌱 I’m currently learning python,blockcoding,school stuff,arduino coding,game creating,etc.
+- 💞️ I’m looking to collaborate on robotics and game developments
